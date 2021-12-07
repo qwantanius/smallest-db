@@ -61,4 +61,3 @@ try:
 except:
     print("No migration needed")
 
-
